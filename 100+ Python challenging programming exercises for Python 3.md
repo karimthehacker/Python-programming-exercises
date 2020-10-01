@@ -30,7 +30,7 @@ Write a program which will find all such numbers which are divisible by 7 but ar
 The numbers obtained should be printed in a comma-separated sequence on a single line.
 
 Hints: 
-Consider use range(#begin, #end) method
+Consider use range(#begin, #end) method, Here #end number is not included
 
 Solution:
 ```python
